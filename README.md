@@ -4,7 +4,8 @@ sample for testing all functionalities
 ## this is a subheding
 - item1
 - item2
-[] not done
+
+[ ] not done
 [x] done
 ---
 ![sampleImage](https://i.ibb.co/FVpWnrD/image.png)
